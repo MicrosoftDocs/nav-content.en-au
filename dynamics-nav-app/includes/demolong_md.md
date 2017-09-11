@@ -1,1 +1,1 @@
-CRONUS Australasia Pty. Ltd. demonstration database
+<span data-ttu-id="8d64c-101">CRONUS Australasia Pty. Ltd.</span><span class="sxs-lookup"><span data-stu-id="8d64c-101">CRONUS International Ltd.</span></span> <span data-ttu-id="8d64c-102">demonstration database</span><span class="sxs-lookup"><span data-stu-id="8d64c-102">demonstration database</span></span>
