@@ -1,1 +1,1 @@
-<span data-ttu-id="7cc27-101">Windows PowerShell</span><span class="sxs-lookup"><span data-stu-id="7cc27-101">Windows PowerShell</span></span>
+<span data-ttu-id="cfaf7-101">Windows PowerShell</span><span class="sxs-lookup"><span data-stu-id="cfaf7-101">Windows PowerShell</span></span>

@@ -1,1 +1,1 @@
-<span data-ttu-id="071d3-101">provisioning tools</span><span class="sxs-lookup"><span data-stu-id="071d3-101">provisioning tools</span></span>
+<span data-ttu-id="83b73-101">provisioning tools</span><span class="sxs-lookup"><span data-stu-id="83b73-101">provisioning tools</span></span>

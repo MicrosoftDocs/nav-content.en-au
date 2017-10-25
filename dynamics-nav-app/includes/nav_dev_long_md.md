@@ -1,1 +1,1 @@
-<span data-ttu-id="3f799-101">Microsoft Dynamics NAV Development Environment</span><span class="sxs-lookup"><span data-stu-id="3f799-101">Microsoft Dynamics NAV Development Environment</span></span>
+<span data-ttu-id="7c687-101">Microsoft Dynamics NAV Development Environment</span><span class="sxs-lookup"><span data-stu-id="7c687-101">Microsoft Dynamics NAV Development Environment</span></span>
