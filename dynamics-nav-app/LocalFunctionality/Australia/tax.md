@@ -1,6 +1,6 @@
 ---
-title: Tax
-description: Dynamics NAV
+title: Australian Tax
+description: Tax functionality in Australia is described in several topics.
 documentationcenter: 
 author: SorenGP
 ms.prod: dynamics-nav-2017
@@ -12,17 +12,15 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 77fd5fc478fd6caa39eda0105dd58b6e3d68a39a
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: d64460c98d4d2d1070fc6d564d71f62a6f128ecf
 ms.contentlocale: en-au
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="tax"></a>Tax
-Dynamics NAV  
+For information about tax in Australia, see the following topics:  
 
-## <a name="see-also"></a>See Also
-[Australia Local Functionality](australia-local-functionality.md)  
 [How to: Set Up Withholding Tax](how-to-set-up-withholding-tax.md)  
 [How to: Set Up Vendors Without ABN for Calculating the Withholding Tax](how-to-set-up-vendors-without-abn-for-calculating-the-withholding-tax.md)  
 [How to: Set Up Revenue Types for Withholding Tax](how-to-set-up-revenue-types-for-withholding-tax.md)  
@@ -35,4 +33,7 @@ Dynamics NAV
 [How to: Adjust Settlement Exchange Rates for GST Entries](how-to-adjust-settlement-exchange-rates-for-vat-entries.md)  
 [How to: View Posted Tax Invoices](how-to-view-posted-tax-invoices.md)  
 [How to: View Posted Tax CR/Adj Notes](how-to-view-posted-tax-credit-memos.md)
+
+## <a name="see-also"></a>See Also
+[Australia Local Functionality](australia-local-functionality.md)  
 

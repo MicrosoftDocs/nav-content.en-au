@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 69e1f6b3277a29c6ad516120ff64a63e5fd02c4e
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 854cdadf85668ec859d735b98ae341be5d076812
 ms.contentlocale: en-au
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="australia-local-functionality"></a>Australia Local Functionality
@@ -34,5 +34,8 @@ The following topics describe local functionality that is unique to the Australi
   [How to: Compare Bank Cash Flow](how-to-compare-bank-cash-flow.md)  
   [How to: Print Deposit Slip Reports](how-to-print-deposit-slip-reports.md)  
   [How to: Print Bank Account Reconciliation Reports](how-to-print-bank-account-reconciliation-reports.md)  
-  [How to: Create Cheque Instalments](how-to-create-check-installments.md)  
+  [How to: Create Cheque Instalments](how-to-create-check-installments.md)
+
+## <a name="see-also"></a>See Also
+[Working with [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)  
 

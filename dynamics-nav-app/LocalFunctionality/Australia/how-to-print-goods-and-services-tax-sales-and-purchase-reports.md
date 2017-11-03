@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 4f39634b4c232114c52977f8be4aee43ef4b0fc5
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 6e9c0c59000ef705597c7e0bbae796d92c45f900
 ms.contentlocale: en-au
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-print-goods-and-services-tax-sales-and-purchase-reports"></a>How to: Print Goods and Services Tax Sales and Purchase Reports
@@ -25,11 +25,11 @@ You can create reports of goods and services tax (GST) for purchases and sales f
   
 ### <a name="to-print-gst-sales-and-purchase-reports"></a>To print GST sales and purchase reports  
   
-1.  Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **BAS Calculation Sheets**, and then choose the relevant link.  
+1.  Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **BAS Calculation Sheets**, and then choose the relevant link.  
   
 2.  Choose the appropriate BAS calculation sheet, and then, on the **Actions** tab, choose **GST Sales Report** or choose **GST Purchase Report**.  
   
-3.  On the **ADD INCLUDE<!--[!INCLUDE[bp_optionsheading](../../includes/bp_optionsheading_md.md)]-->** FastTab, and then fill in the fields as described in the following table.  
+3.  On the **Options** FastTab, and then fill in the fields as described in the following table.  
   
     |Field|Description|  
     |---------------------------------|---------------------------------------|  
