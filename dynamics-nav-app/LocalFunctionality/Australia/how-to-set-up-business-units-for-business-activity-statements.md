@@ -3,7 +3,7 @@ title: How to Set Up Business Units for Business Activity Statements
 description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you can consolidate the financial statements of various companies into one financial statement.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: c9cf7af9e2ceca41e14955b7a8809669846c596b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a6f2623f6184eb60b7caccfc10a110da043d3343
 ms.contentlocale: en-au
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-business-units-for-business-activity-statements"></a><span data-ttu-id="fa4d9-103">How to: Set Up Business Units for Business Activity Statements</span><span class="sxs-lookup"><span data-stu-id="fa4d9-103">How to: Set Up Business Units for Business Activity Statements</span></span>

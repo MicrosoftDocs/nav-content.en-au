@@ -3,7 +3,7 @@ title: How to Print Deposit Slip Reports
 description: The **Deposit Slip** report displays cash and cheque details in a format required by the bank.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 24e5aea73459ddf8e814e3d7f70be7a776bef302
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c681c8fc384534f8af8a07dbf7ad73d216c80d29
 ms.contentlocale: en-au
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-print-deposit-slip-reports"></a><span data-ttu-id="3ac35-103">How to: Print Deposit Slip Reports</span><span class="sxs-lookup"><span data-stu-id="3ac35-103">How to: Print Deposit Slip Reports</span></span>

@@ -3,7 +3,7 @@ title: How to Set Up BAS XML Fields
 description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], you must define setup names for XML fields in the Business Activity Statement (BAS). You can group the required BAS XML field IDs under one setup name.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 76295a990a1c7bbd4fac7be643a903bd1885d2d3
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a70766f641252f6540cf63a3676446b34da83622
 ms.contentlocale: en-au
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-bas-xml-fields"></a><span data-ttu-id="7dad1-104">How to: Set Up BAS XML Fields</span><span class="sxs-lookup"><span data-stu-id="7dad1-104">How to: Set Up BAS XML Fields</span></span>

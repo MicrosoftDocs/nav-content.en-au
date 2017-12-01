@@ -3,7 +3,7 @@ title: Calculating Distribution Amounts
 description: You can reallocate the amount in one general ledger account to other general ledger accounts so that the balances of your accounts remain proportionate to one another.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 14fe46548cf8ac5a73e1bf7201f5783bb8e96595
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d4bee4313ec7b8f602be8ac33e8fa92a1edcbf7f
 ms.contentlocale: en-au
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="calculating-distribution-amounts"></a><span data-ttu-id="406aa-103">Calculating Distribution Amounts</span><span class="sxs-lookup"><span data-stu-id="406aa-103">Calculating Distribution Amounts</span></span>

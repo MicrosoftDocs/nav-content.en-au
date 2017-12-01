@@ -3,7 +3,7 @@ title: Business Activity Statements
 description: "A Business Activity Statement (BAS) is a form that businesses must submit to the Australian Tax Office (ATO) on a monthly or quarterly basis. BAS reports both the total Goods and Services Tax (GST) collected from sales activities—which must be paid to the ATO—and the total GST paid on purchases – which is claimed as an input tax credit."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 89c9e0a4fc977054ddcf48c7c49578ad2fed53c5
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b9394678fb1b1e2e909f6c6d2f34e5f7a5cba0e5
 ms.contentlocale: en-au
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="business-activity-statements"></a><span data-ttu-id="0a2d8-104">Business Activity Statements</span><span class="sxs-lookup"><span data-stu-id="0a2d8-104">Business Activity Statements</span></span>

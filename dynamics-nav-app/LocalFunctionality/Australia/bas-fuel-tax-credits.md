@@ -3,7 +3,7 @@ title: BAS Fuel Tax Credits
 description: Fuel tax credits provide companies with a credit for the fuel tax (excise or customs duty) included in the price of fuel used for business activities.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 95225d807328fe8604f7e378c02e0f5babcc71f9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e0f7608eaa43b36416c43adf0c6746bd2cb7eff3
 ms.contentlocale: en-au
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="bas-fuel-tax-credits"></a><span data-ttu-id="6745c-103">BAS Fuel Tax Credits</span><span class="sxs-lookup"><span data-stu-id="6745c-103">BAS Fuel Tax Credits</span></span>

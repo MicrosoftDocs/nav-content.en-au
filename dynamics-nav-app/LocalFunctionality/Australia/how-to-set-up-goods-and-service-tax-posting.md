@@ -3,7 +3,7 @@ title: How to Set Up Goods and Service Tax Posting
 description: Goods and services tax (GST) is the tax that is applied on most goods and services. The GST that is paid and received during a period is reported in the Business Activity Statement (BAS) that has to be submitted to the Australian Taxation Office (ATO).
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: cb8eb8b92b9414dca98502a18003f5c5c092318e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2c18def59ed0831fa1a0250a95f7cdfd9ecd568c
 ms.contentlocale: en-au
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-goods-and-service-tax-posting"></a><span data-ttu-id="27cd8-104">How to: Set Up Goods and Service Tax Posting</span><span class="sxs-lookup"><span data-stu-id="27cd8-104">How to: Set Up Goods and Service Tax Posting</span></span>
