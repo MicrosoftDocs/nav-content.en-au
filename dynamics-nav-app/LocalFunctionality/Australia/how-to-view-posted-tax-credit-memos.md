@@ -3,7 +3,7 @@ title: How to View Posted Tax CR/Adj Notes
 description: You can use the **Posted Sales Tax CR/Adj Note** window and **Posted Purch. Tax CR/Adj Note** window to view details of sales tax CR/Adj Notes and purchase tax CR/Adj Notes that have been posted.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

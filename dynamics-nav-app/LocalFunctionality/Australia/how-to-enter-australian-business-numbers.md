@@ -3,7 +3,7 @@ title: How to Enter Australian Business Numbers
 description: You can enter an Australian Business Number (ABN) in certain windows.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

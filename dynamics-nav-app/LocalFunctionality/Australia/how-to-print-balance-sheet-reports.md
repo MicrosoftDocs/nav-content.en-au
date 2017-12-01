@@ -3,7 +3,7 @@ title: How to Print Balance Sheet Reports
 description: "You can use the **Balance Sheet** report to view the company’s balance sheet."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

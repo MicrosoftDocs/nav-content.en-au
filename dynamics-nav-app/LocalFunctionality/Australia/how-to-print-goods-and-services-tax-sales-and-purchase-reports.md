@@ -3,7 +3,7 @@ title: How to Print Goods and Services Tax Sales and Purchase Reports
 description: You can create reports of goods and services tax (GST) for purchases and sales from the **BAS Calc. Schedule List** window. Goods and Services Tax (GST) is the tax applied on most goods and services bought and sold in Australia.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

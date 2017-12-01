@@ -3,7 +3,7 @@ title: How to Print Income Statements
 description: "You can use the **Income Statement** report to view the company’s annual income statement."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

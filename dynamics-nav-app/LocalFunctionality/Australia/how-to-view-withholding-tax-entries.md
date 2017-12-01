@@ -3,7 +3,7 @@ title: How to View Withholding Tax Entries
 description: You can view entries that have been posted with withholding tax (WHT) for a specified general ledger register.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

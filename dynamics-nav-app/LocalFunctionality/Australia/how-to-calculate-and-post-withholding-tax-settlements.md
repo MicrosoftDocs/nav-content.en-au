@@ -3,7 +3,7 @@ title: How to Calculate and Post Withholding Tax Settlements
 description: You can use the **Calc. and Post WHT Settlement** window to calculate and post the withholding tax (WHT).
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
